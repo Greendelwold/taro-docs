@@ -33,7 +33,7 @@ import TabItem from '@theme/TabItem'
 
 ```tsx
 import { useState } from 'react'
-import { RootPortal, View, Button } from '@tarojs/components'
+<!-- import { RootPortal, View, Button } from '@tarojs/components' -->
 
 export default function RootPortalExample {
   const [show, setShow] = useState(false)
